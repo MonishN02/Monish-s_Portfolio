@@ -10,6 +10,10 @@
 * Implemented interactive visualizations in Tableau to provide an engaging user experience,allowing exploration of Netflix content trends.
 * Implemented relationships and visualizations to dynamically display the top movies and TV shows based on the analyzed data.
 
+
+![Screenshot 2024-01-26 204146](https://github.com/MonishN02/Monish-s_Portfolio/assets/157813767/8c2650a5-4c94-472c-b593-8e8eff55cbf8)
+
+
 ### Tools
 
 * Excel - Data Cleaning
